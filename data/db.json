@@ -60,6 +60,17 @@
       "method": "cook until eggs are firm and crusty",
       "cookingTime": "10 minutes",
       "id": "J6x3-lh"
+    },
+    {
+      "title": "Sanwich BLT",
+      "ingredients": [
+        "tomatoes",
+        "bacon",
+        "lettuce"
+      ],
+      "method": "Put all ingredients together",
+      "cookingTime": "5 minutes",
+      "id": "e7xNTJE"
     }
   ]
 }
