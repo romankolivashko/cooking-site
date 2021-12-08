@@ -6,11 +6,11 @@
   margin: 40px auto;
 }
 .recipe-list .card {
-  background: #fff;
+  background-image: url('../img/card_bg.jpg');
   color: #333;
   padding: 20px;
   border-radius: 4px;
-  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+  box-shadow: 9px 9px 9px rgba(0, 0, 0, 0.08);
   transition: all 0.3s ease;
   position: relative;
 }
